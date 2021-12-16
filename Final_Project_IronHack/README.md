@@ -8,7 +8,7 @@ Bike sharing Apps are rapidly growing in Popularity and Usage. With cities incre
 The Data was sourced from the UCI repository. It is  a dataset from CAPITAL BIKES based in Washingtong DC. 
 ## TOOLS USED FOR THE PROJECT
 - [TRELLO](https://trello.com/b/FzIITYV4/final-project) 
-- [TABLEAU](https://public.tableau.com/app/profile/kofi.ampomah/viz/Draft_of_final_project/PredictionVrsOriginal) 
+- [TABLEAU](https://public.tableau.com/app/profile/kofi.ampomah/viz/Final_Project_IronHack/PredictionVrsOriginal?publish=yes) 
 - PYTHON 
 ## STEPS TAKEN IN PYTHON 
 ### Data Importation and Cleaning 
