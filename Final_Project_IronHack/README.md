@@ -10,6 +10,7 @@ The Data was sourced from the UCI repository. It is  a dataset from CAPITAL BIKE
 - [TRELLO](https://trello.com/b/FzIITYV4/final-project) 
 - [TABLEAU](https://public.tableau.com/app/profile/kofi.ampomah/viz/Final_Project_IronHack/PredictionVrsOriginal?publish=yes) 
 - [PYTHON](https://github.com/KofiSika/IronHack/blob/main/Final_Project_IronHack/Python%20Code/Final_Project_Bikes_Movement.ipynb)
+- [SLIDES](https://slides.com/kofiampomah/deck/edit) - For the presentation of the project 
 ## STEPS TAKEN IN PYTHON 
 ### Data Importation and Cleaning 
 I imported the csv file ```Hour.csv``` from the UCI website. Performed some basic data cleaning steps on the dataset like renaming headers and changind data types to their appropriate formats. 
