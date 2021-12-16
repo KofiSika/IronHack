@@ -9,7 +9,7 @@ The Data was sourced from the UCI repository. It is  a dataset from CAPITAL BIKE
 ## TOOLS USED FOR THE PROJECT
 - [TRELLO](https://trello.com/b/FzIITYV4/final-project) 
 - [TABLEAU](https://public.tableau.com/app/profile/kofi.ampomah/viz/Final_Project_IronHack/PredictionVrsOriginal?publish=yes) 
-- PYTHON 
+- [PYTHON](https://github.com/KofiSika/IronHack/blob/main/Final_Project_IronHack/Python%20Code/Final_Project_Bikes_Movement.ipynb)
 ## STEPS TAKEN IN PYTHON 
 ### Data Importation and Cleaning 
 I imported the csv file ```Hour.csv``` from the UCI website. Performed some basic data cleaning steps on the dataset like renaming headers and changind data types to their appropriate formats. 
@@ -19,14 +19,17 @@ Further used a ```heatmap``` correlation matrix to also check for possible corre
 ### Feature Engineering 
 Then some features were dropped which were considered as too much of a direct correlation to the target cariable. Examples being ```Registered``` users and the ```casual``` bike users column. Also i indexed the dataframe to later allow for a join in tablaeu to be able to plot the predicted points against the actual points. 
 
-![Predicted vrs original](https://user-images.githubusercontent.com/92721547/146392924-4fdf17c7-5772-47d2-b344-e5313a50080b.png)
 
 ### Modelling 
 First i run three regression model methods which gave the following accuracy and error margins
 - Linear Regression 
 - Decision Tree 
 - Random Forest  <br> 
-After running these models, in order to imporove the model i run furhter stacked models and the best result of the that was a cocktail of all 3 models which yielded a a percentage accuracy of ```90.2%``` with a marginal error of 36 users 
+
+After running these models, in order to imporove the model i run furhter stacked models and the best result of the that was a cocktail of all 3 models which yielded a a percentage accuracy of ```90.2%``` with a marginal error of 36 users. Find a plot of the predictions against the actual data below: 
+
+![MLPredictions2](https://user-images.githubusercontent.com/92721547/146447483-c325329c-e53c-44db-a06f-485626c94d7c.png)
+
 
 ### Web Scraping
 
@@ -40,9 +43,6 @@ In summary an accuracy of ```90.2%``` is a fairly good prediction rate and given
 ## POSSIBLE EXPANSION 
 - Can be expanded upon to place bikes in actual locations needed when merged with location data
 - Data can also be utilised to tell movement treands and patterns of users which can be used in lifestyle prediction for marketing 
-- 
-
-
 
 
 
