@@ -43,9 +43,6 @@ In summary an accuracy of ```90.2%``` is a fairly good prediction rate and given
 ## POSSIBLE EXPANSION 
 - Can be expanded upon to place bikes in actual locations needed when merged with location data
 - Data can also be utilised to tell movement treands and patterns of users which can be used in lifestyle prediction for marketing 
-- 
-
-
 
 
 
