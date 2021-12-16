@@ -35,10 +35,12 @@ In summary an accuracy of ```90.2%``` is a fairly good prediction rate and given
 
 ## CHALLENGES 
 - Not being able to scrape large amounts of weather data from the future makes it a difficult to be able to make long term predictions based on this model. '
-- Also there is a lack of geographical location information which limits the functionality of such a model
+- Also there is a lack of geographical location information in the data which limits the functionality of such a model
 
 ## POSSIBLE EXPANSION 
-
+- Can be expanded upon to place bikes in actual locations needed when merged with location data
+- Data can also be utilised to tell movement treands and patterns of users which can be used in lifestyle prediction for marketing 
+- 
 
 
 
