@@ -12,7 +12,7 @@ The Data was sourced from the UCI repository. It is  a dataset from CAPITAL BIKE
 - PYTHON 
 ## STEPS TAKEN IN PYTHON 
 ### Data Importation and Cleaning 
-I imported the csv file ```Hour.csv``` from the UCI website. Performde basic data cleaning steps on the dataset like renaming headers and changind data types to their appropriate formats. 
+I imported the csv file ```Hour.csv``` from the UCI website. Performed some basic data cleaning steps on the dataset like renaming headers and changind data types to their appropriate formats. 
 ### Visualisation Of The Data
 The data set was visualised using Python tools like ```seaborn``` and ```matplotlib``` to look for outliers and correlations. 
 Further used a ```heatmap``` correlation matrix to also check for possible correlations between variables and the target column 
